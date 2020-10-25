@@ -1,4 +1,4 @@
-# PythonCodeCNN
+#  DBAP-CNN
 
 Classification accuracy yielded by LeNet and AlexNet (in %) after incorporation of DBAP layer.The classifier used is softmax,SVM and Knn by both the models(LeNet and AlexNet). One can observe that the results are better than those achieved by the baseline models and competitive to the discrimination results of other popular deepmodels.
 
