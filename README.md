@@ -1,7 +1,9 @@
 # PythonCodeCNN
-Modification in AlexNet and LeNet which scores an accuracy of 99.5% on the MNIST dataset.
 
-run file on the Google Colab (https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+Classification accuracy yielded by LeNet and AlexNet (in %) after incorporation of DBAP layer.The classifier used is softmax,SVM and Knn by both the models(LeNet and AlexNet). One can observe that the results are better than those achieved by the baseline models and competitive to the discrimination results of other popular deepmodels.
+
+
+To run code go to Google Colab (https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
 or 
 
