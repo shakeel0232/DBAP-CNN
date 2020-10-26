@@ -4,6 +4,8 @@ Classification accuracy yielded by LeNet and AlexNet (in %) after incorporation 
 
 if you want to use other datasets change the import file form mnist to cifar10 and fashion-mnist from (import keras.datasets import.cifar10 ) and load (x_train, y_train), (x_test, y_test) = cifar10.load_data() and (x_train, y_train), (x_test, y_test) = fashion_mnist.load_data() 
 
+MNIST data set link http://yann.lecun.com/exdb/mnist/
+
 To run code go to Google Colab (https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
 or 
